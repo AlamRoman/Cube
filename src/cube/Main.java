@@ -10,7 +10,7 @@ public class Main extends JPanel{
         frame.setSize(750, 450);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
-        frame.setTitle("Cube in 2d");
+        frame.setTitle("Cube");
         
         Panel panel = new Panel();
         
